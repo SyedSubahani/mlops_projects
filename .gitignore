@@ -7,6 +7,8 @@ __pycache__/
 
 #
 mlenv
+./envmlops
+envmlops
 
 # Distribution / packaging
 .Python
