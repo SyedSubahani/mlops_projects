@@ -9,6 +9,8 @@ __pycache__/
 mlenv
 envmlops
 
+mlruns/
+
 # Distribution / packaging
 .Python
 env/
